@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+/* background sin usar bootstrap */
+.container-fluid{
+    background-color: cadetblue;
+}
+
+/* pisar la tipografía de bootstrap sin usar "!important! */
+.lead{
+    font-size: 2rem;
+    color: aliceblue;
+}
