@@ -34,8 +34,8 @@
 }
 
 .nav-link:hover {
-    background-color: rgb(7, 7, 7);
-    color: aliceblue;
+    background-color: rgba(7, 7, 7, 0.1);
+    color: rgb(12, 13, 14);
     transform: translate(1px);
     border-radius: 5px;
 }
@@ -116,8 +116,8 @@
 }
 
 .btn {
-    color: rgba(242, 233, 228, 1);
-    background-color: rgba(154, 140, 152, 1);
+    color: rgb(0, 0, 0);
+    background-color: rgba(2, 1, 2, 0.276);
     border-radius: 10px;
     transition: .5s
 }
@@ -138,9 +138,9 @@
     display: flexbox;
     margin: 15px;
 
-
-
 }
+
+
 
 @media screen and (max-width:800px) {
     .container-img {
